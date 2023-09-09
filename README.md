@@ -26,4 +26,23 @@ Examples include:
 - Envirorover which measures temperature, humidity, and light as it moves
 - Waste bin monitoring system
 
-[Link to an example of a completed Calculator Project](https://www.onlinegdb.com/Rjh8qgKKV)
+[Link to an example of a incomplte Calculator Project](https://www.onlinegdb.com/Rjh8qgKKV)
+It demonstrates:
+1. Preprocessor statements: include
+2. Input/output: printf, scanf
+3. Datatypes: integer, float
+4. Loops: for loop
+5. Conditional statements: if/else, switch/case
+6. String manipulation: no
+7. Arrays: no
+
+
+On pages 24-25 of the textbook there is an example of Converting from Fahrenheit to Celsius.
+It demonstrates:
+1. Preprocessor statements: include, symbolic macro constant definition
+2. Input/output: printf, scanf
+3. Datatypes: float
+4. Loops: no
+5. Conditional statements: no
+6. String manipulation: no
+7. Arrays: no
