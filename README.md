@@ -26,4 +26,4 @@ Examples include:
 - Envirorover which measures temperature, humidity, and light as it moves
 - Waste bin monitoring system
 
-[Link to an example of a completed Calculator Project](https://www.onlinegdb.com/fork/rkCvI8efX)
+[Link to an example of a completed Calculator Project](https://www.onlinegdb.com/Rjh8qgKKV)
