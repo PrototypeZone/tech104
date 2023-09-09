@@ -26,7 +26,7 @@ Examples include:
 - Envirorover which measures temperature, humidity, and light as it moves
 - Waste bin monitoring system
 
-[Link to an example of a incomplte Calculator Project](https://www.onlinegdb.com/Rjh8qgKKV)
+[Link to an example of a incomplete Calculator Project](https://www.onlinegdb.com/Rjh8qgKKV)
 It demonstrates:
 1. Preprocessor statements: include
 2. Input/output: printf, scanf
