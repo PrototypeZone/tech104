@@ -16,7 +16,7 @@ As the semester progresses we will use C programming features that we learn in c
 9. String manipulation
 10. Does your program mimic a device?
 
-### Examples include:
+### Project Examples include:
 - Automated plant watering system
 - Living environment monitoring system
 - Pet food dispenser
