@@ -37,6 +37,8 @@ Examples include:
 9. String manipulation: no
 10. Does your program mimic a device?
 
+
+
 1. The example of Converting from Fahrenheit to Celsius on pages 24-25 of the textbook demonstrates:
 2. Input, preprocessor statements: scanf, include, symbolic macro constant definition
 3. Calculation with datatypes, formatted output: float, printf
