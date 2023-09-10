@@ -3,7 +3,7 @@ Choose a system that has a computer program that your are familiar with or will 
 
 As the semester progresses we will use C programming features that we learn in class to make our respective projects more like the real life systems. We will work only on the computer program, we will not be building any physical parts of the system this semester. 
 
-Labs
+### Labs
 0. Compiling/running first program (command prompt, gcc pun.c from textbook)
 1. Project choice
 2. Input, preprocessor statements
@@ -16,8 +16,7 @@ Labs
 9. String manipulation
 10. Does your program mimic a device?
 
-Examples include:
-
+### Examples include:
 - Automated plant watering system
 - Living environment monitoring system
 - Pet food dispenser
