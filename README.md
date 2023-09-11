@@ -43,3 +43,6 @@ And:
 
 For further examples vist:   
 https://github.com/PrototypeZone/ceng317/blob/main/projectintroduction.md#project-examples
+
+## Fall 2023 Project choices:
+1. As per discussion board, first post forst serve so once a topic has been taken, you have to choose a different one.
