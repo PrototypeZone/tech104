@@ -17,14 +17,6 @@ As the semester progresses we will use C programming features that we learn in c
 10. Does your program mimic a device?
 
 ### Project Examples include:
-- Automated plant watering system
-- Living environment monitoring system
-- Pet food dispenser
-- Aquarium monitor
-- Wellness monitor
-- Envirorover which measures temperature, humidity, and light as it moves
-- Waste bin monitoring system
-
 1. The [Calculator Project](https://www.onlinegdb.com/Rjh8qgKKV) demonstrates:
 2. Input, preprocessor statements: scanf, include
 3. Calculation with datatypes, formatted output: integer, float, printf
@@ -48,3 +40,6 @@ And:
 8. 2D array: no
 9. String manipulation: no
 10. Does your program mimic a device?
+
+For further examples vist:   
+https://github.com/PrototypeZone/ceng317/blob/main/projectintroduction.md#project-examples
