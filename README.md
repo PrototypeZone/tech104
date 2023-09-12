@@ -45,4 +45,20 @@ For further examples vist:
 https://github.com/PrototypeZone/ceng317/blob/main/projectintroduction.md#project-examples
 
 ## Fall 2023 Project choices:
-1. As per discussion board, first post forst serve so once a topic has been taken, you have to choose a different one.
+As per discussion board, first post first serve so once a topic has been taken, you have to choose a different one.
+1. Arie Gerrit Beer - Traffic lights
+2. Baybakov Maxim - retro gaming emulator
+3. Vistin Vincenzi Deng He - Claw machine
+4. Tariq May - Vending machine
+5. Shuo Yu - Pet food dispenser
+6. Amirali - new choice needed
+7. Ngoc Le - Wellness monitor
+8. Jubreel Aromashodu - ATM?
+9. Thomas Hartley - Plant Watering Sytem
+10. Mirko Johnston - Aquarium monitor
+11. Nathan Cassar - Fan speed controller
+12. Lashakan Srihara - Automated Humidifier
+13. Joshua Reddy - new choice needed
+14. Kyle Barcelona - new choice needed
+15. Mathew Lontoc - soda dispensor
+16. Arham Hassan - 
