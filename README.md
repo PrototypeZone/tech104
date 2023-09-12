@@ -53,7 +53,7 @@ As per discussion board, first post first serve so once a topic has been taken, 
 5. Shuo Yu - Pet food dispenser
 6. Amirali - new choice needed
 7. Ngoc Le - Wellness monitor
-8. Jubreel Aromashodu - ATM?
+8. Jubreel Aromashodu - fast food ordering system?
 9. Thomas Hartley - Plant Watering Sytem
 10. Mirko Johnston - Aquarium monitor
 11. Nathan Cassar - Fan speed controller
@@ -69,3 +69,4 @@ As per discussion board, first post first serve so once a topic has been taken, 
 21. Ashok Ananth - waste bin monitor
 22. Bashir Qaderi - new choice needed
 23. Shayan Sheibani - Smart Light
+24. Deepack - Automated teller? machine
