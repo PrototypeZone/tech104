@@ -61,4 +61,11 @@ As per discussion board, first post first serve so once a topic has been taken, 
 13. Joshua Reddy - new choice needed
 14. Kyle Barcelona - new choice needed
 15. Mathew Lontoc - soda dispensor
-16. Arham Hassan - 
+16. Arham Hassan - Color Candy Sorting Machine?
+17. Sean Anderson - new choice needed
+18. Rafiq Moneeb Khawaja - Security system
+19. Luca Mawyin - Calculator
+20. Akmal Halfani - Quiz game
+21. Ashok Ananth - waste bin monitor
+22. Bashir Qaderi - new choice needed
+23. Shayan Sheibani - Smart Light
