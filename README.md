@@ -69,4 +69,8 @@ As per discussion board, first post first serve so once a topic has been taken, 
 21. Ashok Ananth - waste bin monitor
 22. Bashir Qaderi - new choice needed
 23. Shayan Sheibani - Smart Light
-24. Deepack - Automated teller? machine
+24. Deepak - Automated teller? machine
+25. Abdullahi Ali - Book/Equipment Sign-out System
+26. Ayse Koksal - Vehicle parking system
+27. Morwan Hamza - GPS Navigation System
+28. 
