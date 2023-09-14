@@ -74,7 +74,7 @@ As per discussion board, first post first serve so once a topic has been taken, 
 26. D Ayse Koksal - Vehicle parking system
 27. D Morwan Hamza - GPS Navigation System
 28. D Gia Huy Hoang - Word Guessing Game
-29. D Daniel Rincon Gonzalez - Game statistics system
+29. D Daniel Rincon Gonzalez - Game statistics system changed to Training Routine
 30. D Ishaaq Malik - Point Of Sale
 31. D Yash Padhiar - Street Parking
 32. D Kamran Cheema - Speeding Radar
