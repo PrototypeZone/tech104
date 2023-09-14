@@ -82,3 +82,5 @@ As per discussion board, first post first serve so once a topic has been taken, 
 34. D Sardar Jappar - Microwave
 35. D Desyack Morales Estrella - Number Guessing game
 36. D Ibrahim Hagi - Autonomous Electric Vehicle
+37. D Abdul Rahimi - Car wash system
+38. D Samuel Shepherd Pecora - Geiger Counter
