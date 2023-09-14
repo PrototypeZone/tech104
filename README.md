@@ -73,4 +73,7 @@ As per discussion board, first post first serve so once a topic has been taken, 
 25. Abdullahi Ali - Book/Equipment Sign-out System
 26. Ayse Koksal - Vehicle parking system
 27. Morwan Hamza - GPS Navigation System
-28. 
+28. Gia Huy Hoang - Word Guessing Game
+29. Daniel Rincon Gonzalez - Game statistics system
+30. Ishaaq Malik - ATM may be taken, perhaps POS?
+31. 
