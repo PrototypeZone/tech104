@@ -50,30 +50,30 @@ As per discussion board, first post first serve so once a topic has been taken, 
 2. D Baybakov Maxim - retro gaming emulator
 3. D Vistin Vincenzi Deng He - Claw machine
 4. D Tariq May - Vending machine
-5. Shuo Yu - Pet food dispenser
-6. Amirali - new choice needed
-7. Ngoc Le - Wellness monitor
-8. Jubreel Aromashodu - fast food ordering system?
-9. Thomas Hartley - Plant Watering Sytem
-10. Mirko Johnston - Aquarium monitor
-11. Nathan Cassar - Fan speed controller
-12. Lashakan Srihara - Automated Humidifier
-13. Joshua Reddy - new choice needed
-14. Kyle Barcelona - new choice needed
-15. Mathew Lontoc - soda dispensor
-16. Arham Hassan - Color Candy Sorting Machine?
-17. Sean Anderson - new choice needed
-18. Rafiq Moneeb Khawaja - Security system
-19. Luca Mawyin - Calculator
-20. Akmal Halfani - Quiz game
-21. Ashok Ananth - waste bin monitor
-22. Bashir Qaderi - new choice needed
-23. Shayan Sheibani - Smart Light
+5. C Shuo Yu - Pet food dispenser
+6. C Amirali Sinafar - new choice needed
+7. C Ngoc Le - Wellness monitor
+8. C Jubreel Aromashodu - fast food ordering system?
+9. C Thomas Hartley - Plant Watering Sytem
+10. C Mirko Johnston - Aquarium monitor
+11. C Nathan Cassar - Fan speed controller
+12. C Lashakan Srihara - Automated Humidifier
+13. C Joshua Reddy - new choice needed
+14. C Kyle Barcelona - new choice needed
+15. C Mathew Lontoc - soda dispensor
+16. C Arham Hassan - Color Candy Sorting Machine?
+17. C Sean Anderson - new choice needed
+18. C Rafiq Moneeb Khawaja - Security system
+19. C Luca Mawyin - Calculator
+20. C Akmal Halfani - Quiz game
+21. C Ashok Ananth - waste bin monitor
+22. C Bashir Qaderi - new choice needed
+23. D Shayan Sheibani - Smart Light
 24. D Deepak - Automated Teller Machine
-25. Abdullahi Ali - Book/Equipment Sign-out System
-26. Ayse Koksal - Vehicle parking system
+25. C Abdullahi Ali - Book/Equipment Sign-out System
+26. D Ayse Koksal - Vehicle parking system
 27. Morwan Hamza - GPS Navigation System
-28. Gia Huy Hoang - Word Guessing Game
-29. Daniel Rincon Gonzalez - Game statistics system
-30. Ishaaq Malik - Point Of Sale
+28. D Gia Huy Hoang - Word Guessing Game
+29. D Daniel Rincon Gonzalez - Game statistics system
+30. D Ishaaq Malik - Point Of Sale
 31. 
