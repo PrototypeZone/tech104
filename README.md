@@ -46,10 +46,10 @@ https://github.com/PrototypeZone/ceng317/blob/main/projectintroduction.md#projec
 
 ## Fall 2023 Project choices:
 As per discussion board, first post first serve so once a topic has been taken, you have to choose a different one.
-1. Arie Gerrit Beer - Traffic lights
-2. Baybakov Maxim - retro gaming emulator
-3. Vistin Vincenzi Deng He - Claw machine
-4. Tariq May - Vending machine
+1. D Arie Gerrit Beer - Traffic lights
+2. D Baybakov Maxim - retro gaming emulator
+3. D Vistin Vincenzi Deng He - Claw machine
+4. D Tariq May - Vending machine
 5. Shuo Yu - Pet food dispenser
 6. Amirali - new choice needed
 7. Ngoc Le - Wellness monitor
@@ -69,11 +69,11 @@ As per discussion board, first post first serve so once a topic has been taken, 
 21. Ashok Ananth - waste bin monitor
 22. Bashir Qaderi - new choice needed
 23. Shayan Sheibani - Smart Light
-24. Deepak - Automated teller? machine
+24. D Deepak - Automated Teller Machine
 25. Abdullahi Ali - Book/Equipment Sign-out System
 26. Ayse Koksal - Vehicle parking system
 27. Morwan Hamza - GPS Navigation System
 28. Gia Huy Hoang - Word Guessing Game
 29. Daniel Rincon Gonzalez - Game statistics system
-30. Ishaaq Malik - ATM may be taken, perhaps POS?
+30. Ishaaq Malik - Point Of Sale
 31. 
