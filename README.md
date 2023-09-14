@@ -84,3 +84,5 @@ As per discussion board, first post first serve so once a topic has been taken, 
 36. D Ibrahim Hagi - Autonomous Electric Vehicle
 37. D Abdul Rahimi - Car wash system
 38. D Samuel Shepherd Pecora - Geiger Counter
+39. D Chashveer Khudurun - Air monitoring
+40. D Julian De Pasqua - Coffee machine
