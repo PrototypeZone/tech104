@@ -72,7 +72,7 @@ As per discussion board, first post first serve so once a topic has been taken, 
 24. D Deepak - Automated Teller Machine
 25. C Abdullahi Ali - Book/Equipment Sign-out System
 26. D Ayse Koksal - Vehicle parking system
-27. Morwan Hamza - GPS Navigation System
+27. D Morwan Hamza - GPS Navigation System
 28. D Gia Huy Hoang - Word Guessing Game
 29. D Daniel Rincon Gonzalez - Game statistics system
 30. D Ishaaq Malik - Point Of Sale
