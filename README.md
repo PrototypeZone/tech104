@@ -51,7 +51,7 @@ As per discussion board, first post first serve so once a topic has been taken, 
 3. D Vistin Vincenzi Deng He - Claw machine
 4. D Tariq May - Vending machine
 5. C Shuo Yu - Pet food dispenser
-6. C Amirali Sinafar - new choice needed
+6. C Amirali Sinafar - smart garage door
 7. C Ngoc Le - Wellness monitor
 8. C Jubreel Aromashodu - fast food ordering system?
 9. C Thomas Hartley - Plant Watering Sytem
@@ -59,10 +59,10 @@ As per discussion board, first post first serve so once a topic has been taken, 
 11. C Nathan Cassar - Fan speed controller
 12. C Lashakan Srihara - Automated Humidifier
 13. C Joshua Reddy - new choice needed
-14. C Kyle Barcelona - new choice needed
+14. C Kyle Barcelona - traffic counter
 15. C Mathew Lontoc - soda dispensor
-16. C Arham Hassan - Color Candy Sorting Machine?
-17. C Sean Anderson - new choice needed
+16. C Arham Hassan - Color Candy Sorting Machine
+17. C Sean Anderson - Turn Based rpg video game see [The Abandoned Farm House Adventure](https://github.com/jefftranter/raspberrypi/blob/master/adventure/afadv.c)
 18. C Rafiq Moneeb Khawaja - Security system
 19. C Luca Mawyin - Calculator
 20. C Akmal Halfani - Quiz game
@@ -86,9 +86,6 @@ As per discussion board, first post first serve so once a topic has been taken, 
 38. D Samuel Shepherd Pecora - Geiger Counter
 39. D Chashveer Khudurun - Air monitoring
 40. D Julian De Pasqua - Coffee machine
-41. C Sean Anderson - Turn Based rpg video game see [The Abandoned Farm House Adventure](https://github.com/jefftranter/raspberrypi/blob/master/adventure/afadv.c)
-42. C Amirali Sinafar - smart garage door
-43. C Kyle Barcelona - traffic counter
 44. C Kevin Hurmoz - unit converter
 45. C Mohamud Mahdi - next bus sign
 46. C Anthony Naccarato - bathroom
