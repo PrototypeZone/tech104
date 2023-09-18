@@ -86,7 +86,7 @@ As per discussion board, first post first serve so once a topic has been taken, 
 38. D Samuel Shepherd Pecora - Geiger Counter
 39. D Chashveer Khudurun - Air monitoring
 40. D Julian De Pasqua - Coffee machine
-41. C Sean Anderson - Turn Based rpg video game
+41. C Sean Anderson - Turn Based rpg video game see [The Abandoned Farm House Adventure](https://github.com/jefftranter/raspberrypi/blob/master/adventure/afadv.c)
 42. C Amirali Sinafar - smart garage door
 43. C Kyle Barcelona - traffic counter
 44. C Kevin Hurmoz - unit converter
