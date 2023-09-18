@@ -90,4 +90,6 @@ As per discussion board, first post first serve so once a topic has been taken, 
 42. C Amirali Sinafar - smart garage door
 43. C Kyle Barcelona - traffic counter
 44. C Kevin Hurmoz - unit converter
-45. 
+45. C Mohamud Mahdi - next bus sign
+46. C Anthony Naccarato - bathroom
+47. C Abdullah Bin Suwedan - gas station pump
