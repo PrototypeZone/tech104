@@ -67,7 +67,7 @@ As per discussion board, first post first serve so once a topic has been taken, 
 19. C Luca Mawyin - Calculator
 20. C Akmal Halfani - Quiz game
 21. C Ashok Ananth - waste bin monitor
-22. C Bashir Qaderi - new choice needed
+22. C Bashir Qaderi - Sailing system
 23. D Shayan Sheibani - Smart Light
 24. D Deepak - Automated Teller Machine
 25. C Abdullahi Ali - Book/Equipment Sign-out System
