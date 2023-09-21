@@ -90,3 +90,4 @@ As per discussion board, first post first serve so once a topic has been taken, 
 45. C Mohamud Mahdi - next bus sign
 46. C Anthony Naccarato - bathroom
 47. C Abdullah Bin Suwedan - gas station pump
+48. D An Khanh Nguyen - Smart Home   
