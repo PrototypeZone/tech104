@@ -16,7 +16,6 @@
 5.  Demonstrate the execution of the program to your professor.
 6.  At the command prompt run the command chmod g+r project.c where project is
     the name of your project e.g.:
-
 ```shell
     chmod g+r traffic.c
 ```
@@ -24,7 +23,6 @@ Also run
 ```shell
     chmod g+x .
 ```
-
 7.  Write pseudocode of future functionality in the form of comments into your
     program e.g.
 ```c
