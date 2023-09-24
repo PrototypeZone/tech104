@@ -17,17 +17,17 @@
 6.  At the command prompt run the command chmod g+r project.c where project is
     the name of your project e.g.:
     
-```c
+```shell
     chmod g+r traffic.c
 ```
 
     Also run
-```
+```shell
     chmod g+x .
 ```
 7.  Write pseudocode of future functionality in the form of comments into your
     program e.g.
-```
+```c
     // This program will take a Fahrenheit temperature as input.
     // It will then print the equivalent Celsius temperature.
 ```
