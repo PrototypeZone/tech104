@@ -75,7 +75,7 @@ quit.
 
 ![](media/16.png)
 
-To learn more about vim, visit the interactive vim tutorial at `openvim.com`
+To learn more about vim, visit the interactive vim tutorial at [openvim.com](https://openvim.com/)
 
 ## Choose a system
 
