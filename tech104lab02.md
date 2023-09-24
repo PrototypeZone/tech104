@@ -18,15 +18,12 @@
     the name of your project e.g.:
    
 ```shell   
-   
     chmod g+r traffic.c   
-   
 ```   
    
 Also run   
     
 ```shell
-   
     chmod g+x .   
 ```
    
