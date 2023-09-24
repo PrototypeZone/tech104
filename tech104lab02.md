@@ -57,4 +57,4 @@ Also run
     scanf(“%11s”, word);
     printf(“%s\\n”, word);
 ```
-```
+
