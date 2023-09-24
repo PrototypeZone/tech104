@@ -16,7 +16,8 @@
 5.  Demonstrate the execution of the program to your professor.
 6.  At the command prompt run the command chmod g+r project.c where project is
     the name of your project e.g.:
-```
+    
+```c
     chmod g+r traffic.c
 ```
 
