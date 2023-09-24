@@ -31,15 +31,13 @@ Also run
 ```
 8.  Take input from the user and print it to the terminal. For example:
 ```c
-    // If you need an integer number that can be negative or positive (text p
-    23)
+    // If you need an integer number that can be negative or positive (text p 23)
     int height;
     printf(“Enter height of box: “);
     scanf(“%d”, \&height);
     printf(“%d\\n, height);
 
-    // If you need a decimal number that can be negative or positive (text p
-    24-25)
+    // If you need a decimal number that can be negative or positive (text p 24-25)
     float fahrenheit;
     printf(“Enter Fahrenheit temperature: “);
     scanf(%f, \&fahrenheit);
