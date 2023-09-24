@@ -19,9 +19,9 @@
     
 ```shell
     chmod g+r traffic.c
-```
-
-    Also run
+```   
+   
+Also run   
     
 ```shell
     chmod g+x .
@@ -33,7 +33,7 @@
     // It will then print the equivalent Celsius temperature.
 ```
 8.  Take input from the user and print it to the terminal. For example:
-```
+```c
     // If you need an integer number that can be negative or positive (text p
     23)
     int height;
