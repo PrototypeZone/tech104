@@ -1,6 +1,6 @@
 # TECH 104 Lab 03
 
-1.  At the command prompt run the command chmod g+r project.c where project is
+1.  Once logged into `mikelake`, at the terminal run the command `chmod g+r project.c` where `project` is
     the name of your project e.g.:
 ```shell
     chmod g+r traffic.c
