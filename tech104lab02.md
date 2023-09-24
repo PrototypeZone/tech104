@@ -33,26 +33,26 @@ Also run
 ```c
     // If you need an integer number that can be negative or positive (text p 23)
     int height;
-    printf(“Enter height of box: “);
-    scanf(“%d”, \&height);
-    printf(“%d\\n, height);
+    printf("Enter height of box: ");
+    scanf("%d", &height);
+    printf("%d\n", height);
 
     // If you need a decimal number that can be negative or positive (text p 24-25)
     float fahrenheit;
-    printf(“Enter Fahrenheit temperature: “);
-    scanf(%f, \&fahrenheit);
-    printf(“%f\\n”,fahrenheit);
+    printf("Enter Fahrenheit temperature: ");
+    scanf("%f", &fahrenheit);
+    printf("%f\n",fahrenheit);
 
     // If you need a character (text p 139)
     char ch;
-    printf(“Enter a character: “);
-    scanf(“%c”, \&ch);
-    printf(“%c\\n”, ch);
+    printf("Enter a character: ");
+    scanf("%c", &ch);
+    printf("%c\n", ch);
 
     // If you need a word of maximum length 11 (adapted from text p 285-286)
     char word[12];
-    printf(“Enter a less than 12 character word: “);
-    scanf(“%11s”, word);
-    printf(“%s\\n”, word);
+    printf("Enter a less than 12 character word: ");
+    scanf("%11s", word);
+    printf("%s\n", word);
 ```
 
