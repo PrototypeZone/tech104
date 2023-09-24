@@ -17,14 +17,14 @@
 6.  At the command prompt run the command chmod g+r project.c where project is
     the name of your project e.g.:
 
-```shell   
-    chmod g+r traffic.c   
-```   
+```shell
+    chmod g+r traffic.c
+```
 
-Also run   
+Also run
 
 ```shell
-    chmod g+x .   
+    chmod g+x .
 ```
 
 7.  Write pseudocode of future functionality in the form of comments into your
