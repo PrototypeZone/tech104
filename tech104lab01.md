@@ -12,68 +12,68 @@ Start up and log in to a computer.
 
 Go to `myapps.humber.ca/labs` and Launch `Code::Blocks`
 
-![](media/image1.png)
+![](media/1.png)
 
 Use notepad to create a file containing:
 
-![](media/image2.png)
+![](media/2.png)
 
 Save it as `C:\Program Files (x86)\CodeBlocks\MinGW\bin\pun.c`
 
-![](media/image3.png)
+![](media/3.png)
 
 Open a command prompt
 
-![](media/image4.png)
+![](media/4.png)
 
 Compile and run the code:
 
-![](media/image5.png)
+![](media/5.png)
 
 Go to `myapps.humber.ca/labs` and Launch PuTTY
 
-![](media/image6.png)
+![](media/6.png)
 
 Load `mikelake` and Open
 
-![](media/image7.png)
+![](media/7.png)
 
 Click Yes to trust the host:
 
-![](media/image8.png)
+![](media/8.png)
 
 Login and use `nano` to open `hello.c`
 
-![](media/image9.png)
+![](media/9.png)
 
 `Alt-y` to switch between colour and black and white.
 
-![](media/image10.png)
+![](media/10.png)
 
 `Ctrl-x` to save and exit
 
-![](media/image11.png)
+![](media/11.png)
 
 `y` for Yes
 
-![](media/image12.png)
+![](media/12.png)
 
 Enter to accept the File Name, then compile and run:
 
-![](media/image13.png)
+![](media/13.png)
 
 Another editor preferred by programmers is `vim`
 
-![](media/image14.png)
+![](media/14.png)
 
 Type `i` to enter INSERT mode
 
-![](media/image15.png)
+![](media/15.png)
 
 Use the `Esc` key to exit INSERT mode, and type `:wq` followed by Enter to write and
 quit.
 
-![](media/image16.png)
+![](media/16.png)
 
 To learn more about vim, visit the interactive vim tutorial at `openvim.com`
 
