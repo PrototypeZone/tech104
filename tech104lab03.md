@@ -1,4 +1,8 @@
 # TECH 104 Lab 03
+- [ ] Symbolic replacement macro constant
+- [ ] Calculation
+- [ ] Output
+- [ ] Relevant
 
 1.  Define a relevant symbolic replacement macro constant in your program, see
     page 36 of Lecture Notes: 03_Introduction to C Programming.pptx
