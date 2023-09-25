@@ -58,7 +58,7 @@ As per discussion board, first post first serve so once a topic has been taken, 
 10. C Mirko Johnston - Aquarium monitor
 11. C Nathan Cassar - Fan speed controller
 12. C Lashakan Srihara - Automated Humidifier
-13. C Joshua Reddy - new choice needed
+13. C Joshua Reddy - Solar battery charger
 14. C Kyle Barcelona - traffic counter
 15. C Mathew Lontoc - soda dispensor
 16. C Arham Hassan - Color Candy Sorting Machine
