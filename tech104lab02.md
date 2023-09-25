@@ -1,6 +1,6 @@
 # TECH 104 Lab 02
-- [ ] Student name
-- [ ] Project name
+- [ ] Student name (demo)
+- [ ] Project name (demo)
 - [ ] Comments
 - [ ] Input
 
