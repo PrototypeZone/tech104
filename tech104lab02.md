@@ -1,4 +1,9 @@
 # TECH 104 Lab 02
+- [] Student name
+- [] Project name
+- [] Comments
+- [] Input
+
 1.  Check the discussion board/project list to see if you need to choose a new
     project.
 2.  Please use mikelake.humber.ca so that your files remain available from week
