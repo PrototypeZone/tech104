@@ -1,10 +1,10 @@
 # TECH 104 Lab 01
 
-1.  Demonstrate the execution of the program to your professor.
+1.  Demonstrate the execution of the program to your professor. ___/2
 
 2.  Choose a system that has a computer program that you are familiar or will
     become familiar with by being the first to choose it on the Blackboard
-    Discussion forum.
+    Discussion forum. ___/2
 
 ## Running your first program
 
