@@ -6,7 +6,7 @@
     become familiar with by being the first to choose it on the Blackboard
     Discussion forum. ___/2
 
-## Running your first program
+## 1. Running your first program
 
 Start up and log in to a computer.
 
@@ -77,7 +77,7 @@ quit.
 
 To learn more about vim, visit the interactive vim tutorial at [openvim.com](https://openvim.com/)
 
-## Choose a system
+## 2. Choose a system
 
 Choose a system that has a computer program that you are familiar or will become
 familiar with by being the first to choose it on the Blackboard Discussion
