@@ -1,8 +1,8 @@
 # TECH 104 Lab 02
-- [] Student name
-- [] Project name
-- [] Comments
-- [] Input
+- [ ] Student name
+- [ ] Project name
+- [ ] Comments
+- [ ] Input
 
 1.  Check the discussion board/project list to see if you need to choose a new
     project.
