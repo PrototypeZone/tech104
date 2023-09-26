@@ -15,6 +15,7 @@ As the semester progresses we will use C programming features that we learn in c
 8. 2D array
 9. String manipulation
 10. Does your program mimic a device?
+- Thanksgiving suggestion: [curses](curses.md)
 
 ### Project Examples include:
 1. The [Calculator Project](https://www.onlinegdb.com/Rjh8qgKKV) demonstrates:
