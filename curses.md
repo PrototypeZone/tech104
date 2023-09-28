@@ -11,3 +11,13 @@
 6.	Login with your Single Sign On credentials.
 7.  For suplementarty learning visit https://www.linkedin.com/learning/learning-c-5/
 8.  For curses visit https://www.linkedin.com/learning/exploring-c-libraries/building-an-ncurses-program
+## Note regarding includes
+1. <stdio.h> is needed for printf(), scanf()
+2. <stdlib.h> is needed for EXIT_SUCCESS, EXIT_FAILURE
+3. <unistd.h> is needed for usleep()
+4. <time.h> is needed for
+   ```c
+   clock_t now;
+   now = clock();
+   printf("%s\n", ctime(&now));
+   ```
