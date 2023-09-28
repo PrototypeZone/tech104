@@ -9,4 +9,5 @@
 5.	Click Continue to Humber College   
 ![](media/20.png)
 6.	Login with your Single Sign On credentials.
-7.  Visit https://www.linkedin.com/learning/exploring-c-libraries/building-an-ncurses-program
+7.  For suplementarty learning visit https://www.linkedin.com/learning/learning-c-5/
+8.  For curses visit https://www.linkedin.com/learning/exploring-c-libraries/building-an-ncurses-program
