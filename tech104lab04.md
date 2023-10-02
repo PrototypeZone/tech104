@@ -4,8 +4,8 @@
 - [ ] Conditional statement demonstrated
 - [ ] Menu
 
-1.  Create a menu system with conditional statements.
-    e.g. checking an integer grade:
+1.  Create a relevant menu system for you project with conditional statements.
+    Example of a conditinoal statement - checking an integer grade:
     ```c
     if (grade >= 80)
     {
