@@ -71,12 +71,12 @@ As per discussion board, first post first serve so once a topic has been taken, 
 22. C Bashir Qaderi - Sailing system
 23. D Shayan Sheibani - Smart Light
 24. D Deepak - Automated Teller Machine
-25. C Abdullahi Ali - Book/Equipment Sign-out System
+25. C Abdullahi Ali - Book/Equipment Sign-out System (consider ISBN)   
 26. D Ayse Koksal - Vehicle parking system
 27. D Morwan Hamza - GPS Navigation System
 28. D Gia Huy Hoang - Word Guessing Game
 29. D Daniel Rincon Gonzalez - Game statistics system changed to Training Routine
-30. D Ishaaq Malik - Point Of Sale
+30. D Ishaaq Malik - Point Of Sale (consider UPC)   
 31. D Yash Padhiar - Street Parking, cricket?
 32. D Kamran Cheema - Speeding Radar
 33. D Kanwalprit Chumber - Printer
