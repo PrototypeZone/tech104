@@ -9,7 +9,7 @@
     ```c
     if (grade >= 80)
     {
-      printf("You got an A!/n");
+      printf("You got an A!\n");
     }
     ```
 2.  Demonstrate one funtioning ```if``` to the professor.
