@@ -12,6 +12,6 @@
       printf("You got an A!\n");
     }
     ```
-2.  Demonstrate one funtioning ```if``` to the professor.
+2.  Demonstrate one functioning ```if``` to the professor.
 3.  Finish your menu system.
 4.  Ensure your program compiles by Sunday at 11 am.
