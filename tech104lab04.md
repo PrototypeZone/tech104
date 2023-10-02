@@ -1,5 +1,5 @@
 # TECH 104 Lab 04
-- [ ] Present, comments, input, symbolic replacement macro constant, calculation, formatted output   
+- [ ] Present, compiles, comments, input, symbolic replacement macro constant, calculation, formatted output   
 - [ ] Use of Allman style as per p.91 of textbook.
 - [ ] Conditional statement demonstrated
 - [ ] Menu
