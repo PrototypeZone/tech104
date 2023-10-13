@@ -61,7 +61,7 @@ As per discussion board, first post first served so once a topic has been taken,
 12. C Lashakan Srihara - Automated Humidifier
 13. C Joshua Reddy - Solar battery charger
 14. C Kyle Barcelona - traffic counter
-15. C Mathew Lontoc - soda dispensor
+15. C Mathew Lontoc - soda dispenser
 16. C Arham Hassan - Color Candy Sorting Machine
 17. C Sean Anderson - Turn Based rpg video game see [The Abandoned Farm House Adventure](https://github.com/jefftranter/raspberrypi/blob/master/adventure/afadv.c)
 18. C Rafiq Moneeb Khawaja - Security system
