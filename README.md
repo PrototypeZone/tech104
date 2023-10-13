@@ -46,7 +46,7 @@ For further examples vist:
 https://github.com/PrototypeZone/ceng317/blob/main/projectintroduction.md#project-examples
 
 ## Fall 2023 Project choices:
-As per discussion board, first post first serve so once a topic has been taken, you have to choose a different one.
+As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.
 1. D Arie Gerrit Beer - Traffic lights
 2. D Baybakov Maxim - retro gaming emulator start with [snake](https://codereview.stackexchange.com/questions/159222/snake-with-ncurses-in-c)
 3. D Vistin Vincenzi Deng He - Claw machine
