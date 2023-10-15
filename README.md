@@ -55,7 +55,7 @@ As per discussion board, first post first served so once a topic has been taken,
 6. C Amirali Sinafar - smart garage door
 7. C Ngoc Le - Wellness monitor
 8. C Jubreel Aromashodu - fast food ordering system?
-9. C Thomas Hartley - Plant Watering Sytem
+9. C Thomas Hartley - Plant Watering System
 10. C Mirko Johnston - Aquarium monitor
 11. C Nathan Cassar - Fan speed controller
 12. C Lashakan Srihara - Automated Humidifier
