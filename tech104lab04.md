@@ -13,5 +13,17 @@
     }
     ```
 2.  Demonstrate one functioning ```if``` to your professor.
-3.  Finish your menu system.
-4.  Ensure your program compiles by Sunday at 11 am.
+3.  Finish your menu system. As discussed at the beginning of the lab04 session, it should have at least 4 options such as:
+    - Up, down, left, right
+    - North, South, East, West
+    - Credit, debit, cash, tab
+    - Temperature, dissolved solids, pH, light
+    - Flush, paper, soap, water
+    - Express bus, regular bus, streetcar, train
+    - +, -, *, /
+    - Red, blue, green, yellow
+    - SuperWash, GlideWash, SuperFoam, vacuum
+    - Coffee, tea, hot chocolate, water
+    - Car, truck, motorcycle, e-bike
+    - Regular, super, diesel, charge
+5.  Ensure your program compiles by Sunday at 11 am.
