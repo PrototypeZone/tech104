@@ -68,7 +68,14 @@ As per discussion board, first post first served so once a topic has been taken,
 19. C Luca Mawyin - Calculator
 20. C Akmal Halfani - Quiz game
 21. C Ashok Ananth - waste bin monitor
-22. C Bashir Qaderi - Sailing system
+22. C Bashir Qaderi - Sailing race start signal system as per [page 41](https://www.nsyc.net/wp-content/uploads/RC_SEMINAR_NSYC.pdf)   
+    - [Drawing](https://buckeyelakeyc.com/wp-content/uploads/2020/02/RC_Drawing.png), [Actual](http://www.sail.ie/speedtips/speedtips_images/favour18.jpg)
+    - -6 *Attention Signal* 4 Horns
+    - -5 *Warning Signal* Red Shape up, Horn 
+    - -4 *Preparatory Signal* P Flag Up, Horn 
+    - -1 *One to go warning* P Flag Down, Long Horn 
+    - 0 *Start* Red Shape down, Horn
+    - If there is a false start X flag up as per [page 50](https://www.nsyc.net/wp-content/uploads/RC_SEMINAR_NSYC.pdf)
 23. D Shayan Sheibani - Smart Light
 24. D Deepak - Automated Teller Machine
 25. C Abdullahi Ali - Book/Equipment Sign-out System (consider ISBN)   
