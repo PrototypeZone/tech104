@@ -26,5 +26,5 @@
     - Coffee, tea, hot chocolate, water
     - Car, truck, motorcycle, e-bike
     - Regular, super, diesel, charge
-    - Start, VMG upwind, VMG downwind, 
+    - Select course, Start, VMG upwind, VMG downwind
 5.  Ensure your program compiles by Sunday at 11 am.
