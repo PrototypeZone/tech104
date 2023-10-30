@@ -4,6 +4,6 @@
 - [ ] Demonstrated loop in class.
 - [ ] Review Lab 04 and have your menu inside of a loop with a fifth option to exit.
 
-1.  Demonstrate one functioning ```if``` to your professor.
+1.  Demonstrate one functioning ```loop``` to your professor.
 2.  Finish your looping menu.
 3.  Ensure your program compiles by Sunday at 11 am.
