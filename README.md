@@ -9,8 +9,8 @@ As the semester progresses we will use C programming features that we learn in c
 2. Input, preprocessor statements
 3. Calculation with datatypes, formatted output
 4. Conditional statements
-5. Functions
-6. Loop menu
+5. Loop menu
+6. Functions
 7. Array
 8. 2D array
 9. String manipulation
