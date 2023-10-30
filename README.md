@@ -43,7 +43,7 @@ And:
 10. Does your program mimic a device?
 
 For further examples vist:   
-https://github.com/PrototypeZone/ceng317/blob/main/projectintroduction.md#project-examples
+https://github.com/PrototypeZone/ceng317/blob/main/README.md#project-examples
 
 ## Fall 2023 Project choices:
 As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.
