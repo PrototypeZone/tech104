@@ -42,7 +42,7 @@ int main(void)
   for (;;) {
     printf("Enter command: ");
     scanf("%d", &cmd);
-	switch (cmd) {   
+    switch (cmd) {   
       case 1:
         balance += case1();
         break;
