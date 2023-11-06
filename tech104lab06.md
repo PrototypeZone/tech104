@@ -1,8 +1,8 @@
 # TECH 104 Lab 06
 - [ ] Present, compiles, comments, input, symbolic replacement macro constant, calculation, formatted output, menu, loop   
 - [ ] Use of Allman style as per p.91 of textbook.
-- [ ] Demonstrated function in class.
-- [ ] Menu items as functions.
+- [ ] Demonstrated use of a function in the lab.
+- [ ] Menu items converted to make use of functions.
 
 1.  Demonstrate one functioning ```function``` to your professor.   
 Example conversion of checking.c from week 06 notes using knowledge from week 08 notes:
