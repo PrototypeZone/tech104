@@ -11,8 +11,24 @@ Example conversion of checking.c from week 06 notes using knowledge from week 08
  
 #include <stdio.h>
 
-void case1(void){
-
+float case1(void){
+	float credit;
+        printf("Enter amount of credit: ");
+        scanf("%f", &credit);
+	return credit;
+}
+ 
+float case2(void){
+	float debit;
+        printf("Enter amount of debit: ");
+        scanf("%f", &debit);
+	return debit;
+}
+ 
+void case3(float balance){
+        printf("Current balance: $%.2f\n", balance);
+	return;
+}
  
 int main(void)
 {
@@ -28,29 +44,23 @@ int main(void)
     scanf("%d", &cmd);
 	switch (cmd) {   
       case 1:
-        printf("Enter amount of credit: ");
-        scanf("%f", &credit);
-        balance += credit;
+        balance += case1();
         break;
       case 2:
-        printf("Enter amount of debit: ");
-        scanf("%f", &debit);
-        balance -= debit;
+        balance -= case2();
         break;
       case 3:
-        printf("Current balance: $%.2f\n", balance);
+	case3(balance);
         break;
       case 4:
         return 0;
       default:
         printf("Invalid command");
         break;
-
     }  // end of switch
   }  // end of for loop
+
 }  // end of main
-
-
-
+```
 2.  Finish converting your menu to make use of functions.
 3.  Ensure your program compiles by Sunday at 11 am.
