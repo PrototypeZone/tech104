@@ -12,22 +12,22 @@ Example conversion of checking.c from week 06 notes using knowledge from week 08
 #include <stdio.h>
 
 float case1(void){
-	float credit;
-        printf("Enter amount of credit: ");
-        scanf("%f", &credit);
-	return credit;
+  float credit;
+  printf("Enter amount of credit: ");
+  scanf("%f", &credit);
+  return credit;
 }
  
 float case2(void){
-	float debit;
-        printf("Enter amount of debit: ");
-        scanf("%f", &debit);
-	return debit;
+  float debit;
+  printf("Enter amount of debit: ");
+  scanf("%f", &debit);
+  return debit;
 }
  
 void case3(float balance){
-        printf("Current balance: $%.2f\n", balance);
-	return;
+  printf("Current balance: $%.2f\n", balance);
+  return;
 }
  
 int main(void)
