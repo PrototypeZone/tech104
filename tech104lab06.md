@@ -11,14 +11,14 @@ Example conversion of checking.c from week 06 notes using knowledge from week 08
  
 #include <stdio.h>
 
-float credit(void){
+float case1(void){
   float credit;
   printf("Enter amount of credit: ");
   scanf("%f", &credit);
   return credit;
 }
  
-float debit(void){
+float case2(void){
   float debit;
   printf("Enter amount of debit: ");
   scanf("%f", &debit);
@@ -44,10 +44,10 @@ int main(void)
     scanf("%d", &cmd);
     switch (cmd) {   
       case 1:
-        balance = balance + credit();
+        balance = balance + case1(); //credit
         break;
       case 2:
-        balance = balance - debit();
+        balance = balance - case2(); //debit
         break;
       case 3:
 	case3(balance);
