@@ -1,5 +1,5 @@
 # TECH 104 Lab 06
-- [ ] Present, compiles, comments, input, symbolic replacement macro constant, calculation, formatted output, menu, loop   
+- [ ] Present, compiles, comments, input, symbolic replacement macro constant, calculation, formatted output, menu of (4 options)+exit+invalid, loop   
 - [ ] Use of Allman style as per p.91 of textbook. ([Reference document](https://humberital-my.sharepoint.com/:w:/g/personal/mdrk0011_humber_ca/Ee6iBqaMJXtFih6kvjZc_7wBI6vaY4SiIN5vI1bv3Pgc0A?e=u313bQ))   
 - [ ] Demonstrated use of a function in the lab.
 - [ ] Menu items converted to make use of functions.
