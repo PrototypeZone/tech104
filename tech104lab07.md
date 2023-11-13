@@ -4,6 +4,7 @@
 - [ ] Demonstrated use of a string in the lab.
 - [ ] Project updated and logical.
 
+0. for Monday's lab group mikelake.humber.ca is saying access denied, let us transfer our files to apollo.humber.ca and use it instead right now. Log in and write the command ``` chmod g+wx .```
 1.  Demonstrate one functioning ```string``` to your professor.
 An example is to write a DisplayHeader function in your code file:
 ```c
