@@ -25,6 +25,6 @@
     - SuperWash, GlideWash, SuperFoam, vacuum
     - Coffee, tea, hot chocolate, water
     - Car, truck, motorcycle, e-bike
-    - Regular, super, diesel, charge
+    - Regular, premium, diesel, charge
     - Select course, Start, VMG upwind, VMG downwind
 5.  Ensure your program compiles by Sunday at 11 am.
