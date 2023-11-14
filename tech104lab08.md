@@ -35,9 +35,9 @@ int main(void)
 {
   int cmd;
   float balance = 0.0f, credit, debit;
- 
+
   printf("*** ACME checkbook-balancing program ***\n");
-  char[][] menu={"Commands: "."1=credit, ","2=debit, ",
+  char menu[][]={"Commands: ","1=credit, ","2=debit, ",
 		"3=balance, ","4=exit\n\n"};
   for (int i=0;i<4;i++){
     printf(menu[i]);
