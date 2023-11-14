@@ -4,7 +4,6 @@
 - [ ] Demonstrated use of an array in the lab.
 - [ ] Menu options provided from an array of strings, a 2 dimensional array of chars.
 
-0. for Monday's lab group mikelake.humber.ca is saying access denied, let us transfer our files to apollo.humber.ca and use it instead right now. Log in and write the command ``` chmod g+wx .```
 1.  Demonstrate one functioning ```array``` to your professor.
 Example:
 ```c
@@ -65,7 +64,6 @@ int main(void)
 
 }  // end of main
 
-example is on mikelake week07, let's see if it becomes available before Monday week08
 ```
 2.  Finish updating your menu options such that they are expressed from an array.
 3.  Ensure your program compiles by Sunday at 11 am.
