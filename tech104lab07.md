@@ -19,3 +19,73 @@ DisplayHeader("Paul Moggach");		// Prints header to the screen
 ```
 2.  Finish updating your project.
 3.  Ensure your program compiles by Sunday at 11 am.
+
+## An example for those interested in yet another alternative to case/switch and if/else for menus
+```c
+/* Balances a checkbook */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+float case0(float balance)
+{
+  printf("Invalid command");
+  return balance;
+}
+
+float case1(float balance){
+  float credit;
+  printf("Enter amount of credit: ");
+  scanf("%f", &credit);
+  return balance+credit;
+}
+
+float case2(float balance){
+  float debit;
+  printf("Enter amount of debit: ");
+  scanf("%f", &debit);
+  return balance-debit;
+}
+
+float case3(float balance){
+  printf("Current balance: $%.2f\n", balance);
+  return balance;
+}
+
+float case4(float balance)
+{
+  exit(EXIT_SUCCESS);
+}
+
+int main(void)
+{
+  int cmd;
+  float balance = 0.0f, credit, debit;
+
+  printf("*** ACME checkbook-balancing program ***\n");
+
+  for (;;) {
+    printf("Commands: 1=credit, 2=debit, ");
+    printf("3=balance, 4=exit\n\n");
+    printf("Enter command: ");
+    scanf("%d", &cmd);
+
+    //example adapted from section 17.7 of the textbook
+    float (*menu[])(float) =   {case0,
+				case1,
+				case2,
+				case3,
+				case4};	
+    if(cmd<1||cmd>4)
+    {
+      cmd=0;
+    }
+
+    balance=(*menu[cmd])(balance);
+
+  }  // end of for loop
+
+  return EXIT_FAILURE;
+
+}  // end of main
+```
