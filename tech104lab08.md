@@ -10,6 +10,12 @@ Example:
 /* Balances a checkbook */
 
 #include <stdio.h>
+#include <stdlib.h>
+
+void DisplayHeader(const char * sname) 
+{ 
+  fprintf(stdout,"*** %s checkbook-balancing program ***\n",sname); 
+} 
 
 float case1(void){
   float credit;
@@ -35,10 +41,11 @@ int main(void)
   int cmd;
   float balance = 0.0f, credit, debit;
 
-  printf("*** ACME checkbook-balancing program ***\n");
-  char menu[][]={"Commands: ","1=credit, ","2=debit, ",
-		"3=balance, ","4=exit\n\n"};
-  for (int i=0;i<4;i++){
+  DisplayHeader("ACME");		// Prints header to the screen
+  char menu[5][12]={"Commands: ","1=credit, ","2=debit, ",
+		    "3=balance, ","4=exit\n\n"};
+  int i;
+  for (i=0;i<4;i++){
     printf(menu[i]);
   }
 
@@ -55,15 +62,14 @@ int main(void)
 	case3(balance);
     }
     else if (cmd==4){
-        return 0;
+        return EXIT_SUCCESS;
     }
     else {
         printf("Invalid command");
     }  // end of else/if
   }  // end of for loop
-
+  return EXIT_FAILURE
 }  // end of main
-
 ```
 2.  Finish updating your menu options such that they are expressed from an array.
 3.  Ensure your program compiles by Sunday at 11 am.
