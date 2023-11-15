@@ -45,7 +45,7 @@ int main(void)
   char menu[5][12]={"Commands: ","1=credit, ","2=debit, ",
 		    "3=balance, ","4=exit\n\n"};
   int i;
-  for (i=0;i<4;i++){
+  for (i=0;i<5;i++){
     printf(menu[i]);
   }
 
@@ -68,7 +68,7 @@ int main(void)
         printf("Invalid command");
     }  // end of else/if
   }  // end of for loop
-  return EXIT_FAILURE
+  return EXIT_FAILURE;
 }  // end of main
 ```
 2.  Finish updating your menu options such that they are expressed from an array.
