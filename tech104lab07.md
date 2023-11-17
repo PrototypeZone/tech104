@@ -18,7 +18,7 @@ and then call the DisplayHeader function at the start your program in your main 
 DisplayHeader("Paul Moggach");		// Prints header to the screen
 ```
 2.  Finish updating your project.
-3.  Ensure your program compiles by Sunday at 11 am.
+3.  Ensure your program compiles by Sunday November 19th at 11 am.
 
 ## An example for those interested in yet another alternative to case/switch and if/else for menus
 ```c
