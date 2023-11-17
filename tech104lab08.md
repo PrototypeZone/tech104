@@ -72,4 +72,4 @@ int main(void)
 }  // end of main
 ```
 2.  Finish updating your menu options such that they are expressed from an array.
-3.  Ensure your program compiles by Sunday at 11 am.
+3.  Ensure your program compiles by Sunday November 26th at 11 am.
