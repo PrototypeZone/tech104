@@ -1,6 +1,6 @@
 # TECH 104 Lab 08
 - [ ] Present, compiles, comments, input, symbolic replacement macro constant, calculation, formatted output, menu of (4 options)+exit+invalid, loop, functions incl. DisplayHeader   
-- [ ] Use of Allman style as per p.91 of textbook. ([Reference document](https://humberital-my.sharepoint.com/:w:/g/personal/mdrk0011_humber_ca/Ee6iBqaMJXtFih6kvjZc_7wBI6vaY4SiIN5vI1bv3Pgc0A?e=u313bQ))   
+- [ ] Use of Allman style as per p.91 of textbook. ([Reference document](https://humberital-my.sharepoint.com/:w:/g/personal/mdrk0011_humber_ca/Ee6iBqaMJXtFih6kvjZc_7wBI6vaY4SiIN5vI1bv3Pgc0A?e=u313bQ)). [Block header comments](https://humberital-my.sharepoint.com/:w:/g/personal/mdrk0011_humber_ca/EX1PI19k0QJMhJcO7TVT_ZIBe6tfS2Ui1wOu7ayLgyAb8w?e=Tb0L3j) for next term.   
 - [ ] Demonstrated use of an array in the lab.
 - [ ] Menu options provided from an array of strings, a 2 dimensional array of chars.
 
