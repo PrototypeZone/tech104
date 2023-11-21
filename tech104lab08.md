@@ -4,6 +4,7 @@
 - [ ] Demonstrated use of an array in the lab.
 - [ ] Menu options provided from an array of strings, a 2 dimensional array of chars.
 
+0.  We will continue using ```apollo.humber.ca```   
 1.  Demonstrate one functioning ```array``` to your professor.
 Example:
 ```c
