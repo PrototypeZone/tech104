@@ -13,8 +13,8 @@ As the semester progresses we will use C programming features that we learn in c
 6. Functions
 7. Array
 8. 2D array
-9. String manipulation
-10. Does your program mimic a device?
+9. Does your program mimic a device?
+10. String manipulation
 - Thanksgiving suggestion: [curses](curses.md)
 
 ### Project Examples include:
