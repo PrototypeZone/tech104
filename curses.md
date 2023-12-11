@@ -17,7 +17,7 @@
 3. <unistd.h> is needed for usleep()
 4. <time.h> is needed for
    ```c
-   clock_t now;
-   now = clock();
+   clock_t now;  // time_t now;
+   now = clock(); // now=time(NULL);
    printf("%s\n", ctime(&now));
    ```
