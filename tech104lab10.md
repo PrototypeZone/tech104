@@ -10,8 +10,8 @@ Steps 1-2 are preprocessor statements:
 2.  Create a constant called CTIMESTRSZ with a value of 25.   
 Steps 3-8 should be in your DisplayHeader function which should be in your project after your preprocessor statements:
 3.  Create a character array ltime[CTIMESTRSZ] 
-4.  Declare a variable now of type clock_t: clock_t now;
-5.  Assign the current time to now: now = clock();
+4.  Declare a variable now of type clock_t: clock_t now; // time_t now;   
+5.  Assign the current time to now: now = clock(); // now=time(NULL);   
 6.  Use strcpy to copy the string that results from a ctime function call to which the address of the now field is passed, into the local character array ltime: strcpy(ltime,ctime(&now));
 7.  Set the characters in the ltime array at indexes 3,7,10, and 19 to commas.
 8.  Print out the string: fprintf(stdout,"\n%.24s",ltime);
