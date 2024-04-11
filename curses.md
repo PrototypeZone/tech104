@@ -11,9 +11,9 @@
 6.	Login with your Single Sign On credentials.
 7.  For suplementarty learning visit https://www.linkedin.com/learning/learning-c-5/
 8.  For curses visit https://www.linkedin.com/learning/exploring-c-libraries/building-an-ncurses-program
-9.  For the white/green pis download and install https://archive.raspbian.org/raspbian/pool/main/n/ncurses/libncurses-dev_6.4-4_armhf.deb
+9.  For the white case (white/green box) pis download and install https://archive.raspbian.org/raspbian/pool/main/n/ncurses/libncurses-dev_6.4-4_armhf.deb
     ```sudo dpkg -i libncurses-dev_6.4-4_armhf.deb```   
-    For the yellow/blue pis there may be errors with the install but it still seems to work.
+    For the black case (yellow/blue box) pis there may be errors with the install but it still seems to work.
 ```c
 #include <curses.h>
 //or #include <ncurses.h>
