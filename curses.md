@@ -14,6 +14,8 @@
 9.  For the white case (white/green box) pis download and install https://archive.raspbian.org/raspbian/pool/main/n/ncurses/libncurses-dev_6.4-4_armhf.deb
     ```sudo dpkg -i libncurses-dev_6.4-4_armhf.deb```   
     For the black case (yellow/blue box) pis there may be errors with the install but it still seems to work.
+
+## curses example
 ```c
 #include <curses.h>
 //or #include <ncurses.h>
