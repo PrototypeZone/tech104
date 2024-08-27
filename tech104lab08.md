@@ -4,7 +4,7 @@
 - [ ] Demonstrated use of an array in the lab.
 - [ ] Menu options provided from an array of strings, a 2 dimensional array of chars.
 
-0.  We will continue using ```apollo.humber.ca```   
+0.  For the Fall 2023 semester we continued using ```apollo.humber.ca```   
 1.  Demonstrate one functioning ```array``` to your professor.
 Example:
 ```c
@@ -73,4 +73,4 @@ int main(void)
 }  // end of main
 ```
 2.  Finish updating your menu options such that they are expressed from an array.
-3.  Ensure your program compiles by Sunday November 26th at 11 am.
+3.  Ensure your program compiles by tomorrow morning at 10 am.
