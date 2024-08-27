@@ -45,7 +45,7 @@ And:
 For further examples see past project choices.   
 
 ## Fall 2024 Project choices:
-As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.
+As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.   
 E Asr -   
 E Timothy -   
 E Aryan -   
