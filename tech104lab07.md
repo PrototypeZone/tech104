@@ -4,7 +4,7 @@
 - [ ] Demonstrated use of a string in the lab. ___/2.5
 - [ ] Project updated and logical. ___/0.5
 
-0. For Lab07 Fall 2023, mikelake.humber.ca was saying access denied, thus we transfered our files to apollo.humber.ca and used it instead, remembering to write the command ```chmod g+wx .``` when logging in to apollo.
+0. For Lab07 Fall 2023, mikelake.humber.ca was saying access denied, thus we transfered our files to apollo.humber.ca and used it instead, remembering to write the command ```chmod g+wx .``` when logging in to apollo. For Fall 2024, we plan to continue to use ```mikelake.humber.ca```
 1.  Demonstrate one functioning ```string``` to your professor.
 An example is to write a DisplayHeader function in your code file:
 ```c
