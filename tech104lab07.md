@@ -1,8 +1,8 @@
 # TECH 104 Lab 07
-- [ ] Present, compiles, comments, input, symbolic replacement macro constant, calculation, formatted output, menu of (4+ options)+exit+invalid, loop, functions   
-- [ ] Use of Allman style as per p.91 of textbook. ([Reference document](https://humberital-my.sharepoint.com/:w:/g/personal/mdrk0011_humber_ca/Ee6iBqaMJXtFih6kvjZc_7wBI6vaY4SiIN5vI1bv3Pgc0A?e=u313bQ))   
-- [ ] Demonstrated use of a string in the lab.
-- [ ] Project updated and logical.
+- [ ] Present, compiles, comments, input, symbolic replacement macro constant, calculation, formatted output, menu of (4+ options)+exit+invalid, loop, functions ___/0.5
+- [ ] Use of Allman style as per p.91 of textbook. ([Reference document](https://humberital-my.sharepoint.com/:w:/g/personal/mdrk0011_humber_ca/Ee6iBqaMJXtFih6kvjZc_7wBI6vaY4SiIN5vI1bv3Pgc0A?e=u313bQ))  ___/0.5
+- [ ] Demonstrated use of a string in the lab. ___/2.5
+- [ ] Project updated and logical. ___/0.5
 
 0. For Lab07 Fall 2023, mikelake.humber.ca was saying access denied, thus we transfered our files to apollo.humber.ca and used it instead, remembering to write the command ```chmod g+wx .``` when logging in to apollo.
 1.  Demonstrate one functioning ```string``` to your professor.
