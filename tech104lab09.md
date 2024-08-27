@@ -34,4 +34,4 @@
 	// After a timeout it will likely revert to welcoming the next customer to the brand.
 	```
 	
-3.  Ensure your program compiles by Sunday December 3rd at 11 am.
+3.  Ensure your program compiles by tomorrow morning at 10 am.
