@@ -1,8 +1,8 @@
 # TECH 104 Lab 04
-- [ ] Present, compiles, comments, input, symbolic replacement macro constant, calculation, formatted output   
-- [ ] Use of Allman style as per p.91 of textbook.
-- [ ] Conditional statement demonstrated
-- [ ] Menu
+- [ ] Present, compiles, comments, input, symbolic replacement macro constant, calculation, formatted output ___/0.5
+- [ ] Use of Allman style as per p.91 of textbook. ___/0.5
+- [ ] Conditional statement demonstrated ___/2.5
+- [ ] Menu ___/0.5
 
 1.  Create a relevant menu system for your project with conditional statements.
     Example of a conditional statement - checking an integer grade:
