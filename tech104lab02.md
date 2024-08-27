@@ -1,8 +1,8 @@
 # TECH 104 Lab 02
-- [ ] Student name (demo)
-- [ ] Project name (demo)
-- [ ] Comments
-- [ ] Input
+- [ ] Student name (demo) ___/1
+- [ ] Project name (demo) ___/1.5
+- [ ] Comments ___/0.5
+- [ ] Input ___/1
 
 1.  Check the discussion board/project list to see if you need to choose a new
     project.
