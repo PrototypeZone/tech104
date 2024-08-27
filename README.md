@@ -42,8 +42,7 @@ And:
 9. String manipulation: no
 10. Does your program mimic a device?
 
-For further examples vist:   
-https://github.com/PrototypeZone/ceng317/blob/main/README.md#project-examples
+For further examples see past project choices.   
 
 ## Fall 2024 Project choices:
 As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.
