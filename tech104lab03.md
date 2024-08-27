@@ -8,4 +8,4 @@
     page 36 of Lecture Notes: 03_Introduction to C Programming.pptx
 2.  Add a relevant calculation with user input and the above to your program.
 3.  Print the output of the calculation to the terminal and show your professor.
-4.  Ensure your program compiles by Sunday at 11 am.
+4.  Ensure your program compiles by tomorrow morning at 10 am.
