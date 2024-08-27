@@ -61,4 +61,4 @@ To learn more about vim, visit the interactive vim tutorial at [openvim.com](htt
 
 Choose a system that has a computer program that you are familiar or will become
 familiar with by being the first to choose it on the Blackboard Discussion
-forum.
+forum. Post a photo of the system on the discussion board as a reply to your choice by tomorrow morning at 10 am.
