@@ -63,4 +63,4 @@ int main(void)
 }  // end of main
 ```
 2.  Finish converting your menu to make use of functions.
-3.  Ensure your program compiles by Sunday at 11 am.
+3.  Ensure your program compiles by tomorrow morning at 10 am.
