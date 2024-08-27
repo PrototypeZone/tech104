@@ -60,4 +60,4 @@ Also run
     scanf("%11s", word);
     printf("%s\n", word);
 ```
-9. Save your changes by Sunday at 11 am.
+9. Save your changes by tomorrow morning at 10 am.
