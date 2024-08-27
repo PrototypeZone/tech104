@@ -17,4 +17,4 @@ Steps 3-8 should be in your DisplayHeader function which should be in your proje
 8.  Print out the string: fprintf(stdout,"\n%.24s",ltime);
 9.  Show your professor.
 10. Update program for any goals of previous labs that were missed.
-11. Ensure your program compiles by Sunday December 10th at 11 am.
+11. Ensure your program compiles by tomorrow morning at 10 am.
