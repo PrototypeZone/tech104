@@ -4,7 +4,7 @@
 - [ ] Demonstrated use of a string in the lab.
 - [ ] Project updated and logical.
 
-0. For this week's lab, mikelake.humber.ca is saying access denied, let us transfer our files to apollo.humber.ca and use it instead. Log in to apollo and write the command ```chmod g+wx .```
+0. For Lab07 Fall 2023, mikelake.humber.ca was saying access denied, thus we transfered our files to apollo.humber.ca and used it instead, remembering to write the command ```chmod g+wx .``` when logging in to apollo.
 1.  Demonstrate one functioning ```string``` to your professor.
 An example is to write a DisplayHeader function in your code file:
 ```c
@@ -18,7 +18,7 @@ and then call the DisplayHeader function at the start your program in your main 
 DisplayHeader("Paul Moggach");		// Prints header to the screen
 ```
 2.  Finish updating your project.
-3.  Ensure your program compiles by Sunday November 19th at 11 am.
+3.  Ensure your program compiles by tomorrow morning at 10 am.
 
 ## An example for those interested in yet another alternative to case/switch and if/else for menus
 ```c
