@@ -4,7 +4,7 @@
 - [ ] Demonstrated use of an array in the lab. ___/2.5
 - [ ] Menu options provided from an array of strings, a 2 dimensional array of chars. ___/0.5
 
-0.  For the Fall 2023 semester we continued using ```apollo.humber.ca```   
+0.  For the Fall 2023 semester we continued using ```apollo.humber.ca``` while for Fall 2024, we plan to continue to use ```mikelake.humber.ca```  
 1.  Demonstrate one functioning ```array``` to your professor.
 Example:
 ```c
