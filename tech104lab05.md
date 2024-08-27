@@ -6,4 +6,4 @@
 
 1.  Demonstrate one functioning ```loop``` to your professor.
 2.  Finish your looping menu.
-3.  Ensure your program compiles by Sunday at 11 am.
+3.  Ensure your program compiles by tomorrow morning at 10 am.
