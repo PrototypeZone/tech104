@@ -27,4 +27,4 @@
     - Car, truck, motorcycle, e-bike
     - Regular, premium, diesel, charge
     - Select course, Start, VMG upwind, VMG downwind
-5.  Ensure your program compiles by Sunday at 11 am.
+5.  Ensure your program compiles by tomorrow morning at 10 am.
