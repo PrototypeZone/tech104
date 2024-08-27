@@ -4,7 +4,7 @@
 - [ ] Demonstrated functionality in the lab. ___/2.5
 - [ ] Program logic updated to mimic an actual device. ___/0.5
 
-0.  For the Fall 2023 semester we continued using ```apollo.humber.ca```   
+0.  For the Fall 2023 semester we continued using ```apollo.humber.ca``` while for Fall 2024, we plan to continue to use ```mikelake.humber.ca```   
 1.  Demonstrate you program to your professor.
 2.  Finish updating your program logic to mimic an actual device, each project is different. For example:
     ```c
