@@ -4,7 +4,7 @@
 - [ ] Demonstrated time of day functionality in the lab.
 - [ ] Program updated to adhere to goals of previous labs.
 
-0.  We will continue using ```apollo.humber.ca```   
+0.  For the Fall 2023 semester we continued using ```apollo.humber.ca```   
 Steps 1-2 are preprocessor statements:
 1.  If you don't already, #include <string.h> and #include <time.h>
 2.  Create a constant called CTIMESTRSZ with a value of 25.   
