@@ -17,7 +17,7 @@
 |8   |2024-10-30|**Introduction to Functions**  Functions Definition and calling functions Design of structured programs Local and global function definitions and calls.      | Lab  6 4%           |
 |9   |2024-11-06|Quiz 2                                                                                                                                                        |       20%           |
 |10  |2024-11-13|**Problem Solving using C language** Design of structured programs using conditional statements, loops and functions                                          | Lab  7 4%           |
-|11  |2024-07-20|**Arrays** Arrays – one dimensional arrays Arrays – initializing Loops and arrays Integer and real number processing using arrays                             | Lab  8 4%           |
+|11  |2024-11-20|**Arrays** Arrays – one dimensional arrays Arrays – initializing Loops and arrays Integer and real number processing using arrays                             | Lab  8 4%           |
 |12  |2024-11-27|**More Arrays** 2D arrays Array arguments                                                                                                                     | Lab  9 4%           |
 |13  |2024-12-04|**Review** Design of structured programs using conditional statements, loops, arrays and functions                                                            | Lab 10 4%           |
 |14  |2024-12-11|Final                                                                      						                                                                       |       25%           |
