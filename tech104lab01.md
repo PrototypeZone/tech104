@@ -21,7 +21,7 @@ Click Yes to trust the host:
 
 ![](media/8.png)
 
-Login and use `nano` to open `hello.c`
+Login and use `nano` to open `pun.c`
 
 ![](media/9.png)
 
