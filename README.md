@@ -57,14 +57,16 @@ E Joshua - Charging Lockbox (lockbox.c)
 E Timothy - Treffic Lights (traffic.c)   
 E Egzon - Gym Entrance (turnstyle.c)   
 E Kaesel - Microwave (microwave.c)   
+E Ayub - Red Light Camera (redlight.c)    
+E Julian - Physical Telephone (phone.c)   
 E Jadiah -   
-E Julian -   
-E Ayub -   
 
 drink.c   
 
 E Roqeeb -   
 E Abhay -   
+E Marvin -   
+E Riddhiben -   
 
 ## Fall 2023 Project choices:
 As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.
