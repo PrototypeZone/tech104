@@ -46,19 +46,21 @@ For further examples see past project choices.
 
 ## Fall 2024 Project choices:
 As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.   
-E Austin - Parking Lot   
-E Roman - Driving knowledge, reaction time, eyesight   
-E Dominic - Calculator   
-E Aryan - Vending Machine   
-E Nathan - Cash Register   
-E Asr - Parking Kiosk   
-E Timothy -   
-E Egzon -   
+E Austin - Parking Lot (gate.c)   
+E Roman - Driving knowledge, reaction time, eyesight (driving.c)   
+E Dominic - Calculator (calculator.c)   
+E Aryan - Vending Machine (vending.c)   
+E Nathan - Cash Register (register.c)   
+E Asr - Parking Kiosk (kiosk.c)   
+E Princess - Printer (printer.c)   
+E Joshua - Charging Lockbox (lockbox.c)   
+E Timothy - Treffic Lights (traffic.c)   
+E Egzon - Gym Entrance (turnstyle.c)   
+E Kaesel - Microwave (microwave.c)   
 E Jadiah -   
-E Joshua -   
-E Roqeeb -   
 E Julian -   
-E Kaesel -   
+
+E Roqeeb -   
 E Abhay -   
 
 ## Fall 2023 Project choices:
