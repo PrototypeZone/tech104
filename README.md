@@ -59,11 +59,11 @@ E Egzon - Gym Entrance (turnstyle.c)
 E Kaesel - Microwave (microwave.c)   
 E Ayub - Red Light Camera (redlight.c)    
 E Julian - Physical Telephone (phone.c)   
-E Jadiah -   
+E Jadiah - ATM (atm.c)   
+E Roqeeb - Campus Compass App (navigation.c)   
 
 drink.c   
 
-E Roqeeb -   
 E Abhay -   
 E Marvin -   
 E Riddhiben -   
