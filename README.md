@@ -46,20 +46,20 @@ For further examples see past project choices.
 
 ## Fall 2024 Project choices:
 As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.   
-E Asr -   
+E Austin - Parking Lot   
+E Roman - Driving knowledge, reaction time, eyesight   
+E Dominic - Calculator   
+E Aryan - Vending Machine   
+E Nathan - Cash Register   
+E Asr - Parking Kiosk   
 E Timothy -   
-E Aryan -   
-E Austin -   
-E Dominic -   
 E Egzon -   
 E Jadiah -   
-E Nathan -   
 E Joshua -   
 E Roqeeb -   
 E Julian -   
 E Kaesel -   
 E Abhay -   
-E Roman -   
 
 ## Fall 2023 Project choices:
 As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.
