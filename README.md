@@ -61,12 +61,13 @@ E Ayub - Red Light Camera (redlight.c)
 E Julian - Physical Telephone (phone.c)   
 E Jadiah - ATM (atm.c)   
 E Roqeeb - Campus Compass App (navigation.c)   
+E Abhay - Speed radar (radar.c)   
 
 drink.c   
 
-E Abhay -   
 E Marvin -   
 E Riddhiben -   
+E Morris -   
 
 ## Fall 2023 Project choices:
 As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.
