@@ -46,20 +46,25 @@ For further examples see past project choices.
 
 ## Fall 2024 Project choices:
 As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.   
-E Asr -   
-E Timothy -   
-E Aryan -   
-E Austin -   
-E Dominic -   
-E Egzon -   
-E Jadiah -   
-E Nathan -   
-E Joshua -   
-E Roqeeb -   
-E Julian -   
-E Kaesel -   
-E Abhay -   
-E Roman -   
+E Austin - Parking Lot (gate.c)![gate](gate.jpeg)   
+E Roman - Driving knowledge, reaction time, eyesight (driving.c)![]()   
+E Dominic - Calculator (calculator.c)![calculator](calculator.jpeg)   
+E Aryan - Food Vending Machine (vending.c)![vending](vending.jpg)   
+E Nathan - Cash Register (register.c)![register](register.jpg)   
+E Asr - Parking Kiosk (parking.c)![parking](parking.jpg)   
+E Princess - Printer (printer.c)![printer](printer.jpg)   
+E Joshua - Charging Lockbox (lockbox.c)![lockbox](lockbox.jpg)   
+E Timothy - Traffic Lights (traffic.c)![traffic](traffic.jpg)   
+E Egzon - Gym Entrance (gymEntrance.c)![gymEntrance](gymEntrance.jpg)   
+E Kaesel - Microwave (microwave.c)![microwave](microwave.jpeg)   
+E Ayub - Red Light Camera (redlight.c)![]()    
+E Julian - Physical Telephone (phone.c)![phone](phone.jpeg)   
+E Jadiah - ATM (atm.c)![]()   
+E Roqeeb - Campus Compass App (navigation.c)![navigation](navigation.jpeg)   
+E Abhay - Speed radar (radar.c)![radar](radar.png)   
+E Marvin - Ticket pay machine (ticket.c)![]()   
+E Riddhiben - Hangman game (hangman.c)![]()   
+E Morris - Drink vending machine (drink.c)![]()   
 
 ## Fall 2023 Project choices:
 As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.
