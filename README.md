@@ -49,7 +49,7 @@ As per discussion board, first post first served so once a topic has been taken,
 E Austin - Parking Lot (gate.c)   
 E Roman - Driving knowledge, reaction time, eyesight (driving.c)   
 E Dominic - Calculator (calculator.c)   
-E Aryan - Vending Machine (vending.c)   
+E Aryan - Food Vending Machine (vending.c)   
 E Nathan - Cash Register (register.c)   
 E Asr - Parking Kiosk (parking.c)   
 E Princess - Printer (printer.c)   
@@ -62,12 +62,9 @@ E Julian - Physical Telephone (phone.c)
 E Jadiah - ATM (atm.c)   
 E Roqeeb - Campus Compass App (navigation.c)   
 E Abhay - Speed radar (radar.c)   
-
-drink.c   
-
-E Marvin -   
-E Riddhiben -   
-E Morris -   
+E Marvin - Ticket pay machine (ticket.c)   
+E Riddhiben - Hangman game (hangman.c)   
+E Morris - Drink vending machine (drink.c)   
 
 ## Fall 2023 Project choices:
 As per discussion board, first post first served so once a topic has been taken, you have to choose a different one.
