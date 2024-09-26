@@ -3,7 +3,7 @@
 - [ ] Demonstrate the execution of the program to your professor. ___/2.5
 - [ ] Choose a system that has a computer program that you are familiar or will
     become familiar with by being the first to choose it on the Blackboard
-    Discussion forum. ___/1.5
+    Discussion forum. ___/1.5 (0.5 of which is for photo).
 
 ## 1. Running your first program
 
