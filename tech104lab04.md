@@ -17,7 +17,7 @@
 4.  Finish your menu system. As discussed at the beginning of the lab04 session, it should have at least 4 options such as:
     - Up, down, left, right
     - North, South, East, West
-    - Credit, debit, cash, tab
+    - Credit, debit, cash, tap
     - Temperature, dissolved solids, pH, light
     - Flush, paper, soap, water
     - Express bus, regular bus, streetcar, train
