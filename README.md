@@ -62,7 +62,7 @@ E Julian - Physical Telephone (phone.c)![phone](media/phone.jpeg)
 E Jadiah - ATM (atm.c)![]()   
 E Roqeeb - Campus Compass App (navigation.c)![navigation](media/navigation.jpeg)   
 E Abhay - Speed radar (radar.c)![radar](media/radar.png)   
-E Marvin - Ticket pay machine (ticket.c)![]()   
+E Marvin - Ticket pay machine (ticket.c)![ticket](media/ticket.jpg)   
 E Riddhiben - Hangman game (hangman.c)![]()   
 E Morris - Drink vending machine (drink.c)![]()   
 
