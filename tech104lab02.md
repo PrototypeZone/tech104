@@ -28,7 +28,7 @@ Also run
 ```shell
     chmod g+x .
 ```
-7.  Write pseudocode of future functionality in the form of comments into your
+7.  Write pseudocode of future functionality in the form of at least 12 lines of comments into your
     program e.g.
 ```c
     // This program will take a Fahrenheit temperature as input.
