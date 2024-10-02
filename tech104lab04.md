@@ -1,6 +1,6 @@
 # TECH 104 Lab 04
 - [ ] Present, compiles, comments, input, symbolic replacement macro constant, calculation, formatted output ___/0.5
-- [ ] Use of Allman style as per p.91 of textbook. ___/0.5
+- [ ] Use of Allman style as per p.91 of textbook. ([Reference document](https://humberital-my.sharepoint.com/:w:/g/personal/mdrk0011_humber_ca/Ee6iBqaMJXtFih6kvjZc_7wBI6vaY4SiIN5vI1bv3Pgc0A?e=u313bQ)) ___/0.5
 - [ ] Conditional statement demonstrated ___/2.5
 - [ ] Menu ___/0.5
 
