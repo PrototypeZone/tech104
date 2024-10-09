@@ -52,6 +52,7 @@ Also run
     char ch;
     printf("Enter a character: ");
     scanf("%c", &ch);
+    scanf(" %c", &ch);
     printf("%c\n", ch);
 
     // If you need a word of maximum length 11 (adapted from text p 285-286)
