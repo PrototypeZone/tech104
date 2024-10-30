@@ -122,4 +122,5 @@ As per discussion board, first post first served so once a topic has been taken,
 48. D An Khanh Nguyen - Smart Home
 49. D Abdulsamad Abubakar - Alarm clock   
 
-[Online C Book](https://publications.gbdirect.co.uk/c_book/)
+[Online C Book](https://publications.gbdirect.co.uk/c_book/)   
+[C data types](https://en.wikipedia.org/wiki/C_data_types)
