@@ -8,8 +8,8 @@ int main (void)
    	initscr();
 	int col,row;
 	getmaxyx(stdscr, row, col);
-	//		     w len    y   x
-	WINDOW *win = newwin(17, 20, 15, 80);
+	//		     w len y  x
+	WINDOW *win = newwin(0, 0, 0, 0);
 	mvprintw(0,0,"Welcome to Lockers!");
    	int password[5][4]; //4 digit passwords
 	//printf("Please choose a box number: ");
