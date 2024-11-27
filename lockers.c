@@ -56,3 +56,12 @@ int main (void)
 	endwin();
 	return EXIT_SUCCESS;
 }
+/*
+Last fall Seneca closed one campus https://www.cbc.ca/news/canada/toronto/seneca-closure-1.7364762
+
+Sheridan reducing its workforce by up to 30% — or 700 full-time equivalent personnel — through layoffs and voluntary incentive programs for retirements and departures.
+https://www.reddit.com/r/ontario/comments/1h0jxeu/sheridan_college_announces_major_program_cuts_and/
+
+Mohawk College says it expects to lay off between 200 and 400 employees
+https://www.thespec.com/news/hamilton-region/mohawk-college-set-to-axe-hundreds-of-employees-starting-in-early-december/article_71e01a43-041d-58a0-bbce-48e7e03fe533.html
+*/
