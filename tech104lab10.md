@@ -7,7 +7,7 @@
 0.  For the Fall 2023 semester we continued using ```apollo.humber.ca``` while for Fall 2024, we plan to continue to use ```mikelake.humber.ca```   
 Steps 1-2 are preprocessor statements:
 1.  If you don't already, #include <string.h> and #include <time.h>
-2.  Create a constant called CTIMESTRSZ with a value of 25.   
+2.  Create a symbolic macro constant called CTIMESTRSZ with a value of 25.   
 Steps 3-8 should be in your DisplayHeader function which should be in your project after your preprocessor statements:
 3.  Create a character array ltime[CTIMESTRSZ] 
 4.  Declare a variable now of type clock_t: clock_t now; // time_t now;   
